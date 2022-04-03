@@ -38,7 +38,7 @@ knitr::include_graphics(here("Images", "unnamed.png"))
 
 # Exponential growth in scientific output and data available
 
-```{r growth, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+```{r growth, echo=FALSE, message=FALSE, warning=FALSE, out.width= "65%", fig.align='center'}
 knitr::include_graphics(here("Images", "growth.png"))
 ```
 
@@ -62,7 +62,7 @@ knitr::include_graphics(here("Images", "ricerca_sviluppo.png"))
 
 # Cloud use @ Uniurb?
 
-```{r cloud/urb, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+```{r cloud/urb, echo=FALSE, message=FALSE, warning=FALSE, out.width= "65%", fig.align='center'}
 knitr::include_graphics(here("Images", "cloud4dt.png"))
 
 ```
@@ -72,21 +72,21 @@ knitr::include_graphics(here("Images", "cloud4dt.png"))
 
 # Basic Workflow: Incoming
 
-```{r incoming, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+```{r incoming, echo=FALSE, message=FALSE, warning=FALSE, out.width= "45%", fig.align='center'}
 knitr::include_graphics(here("Images", "Incoming.png"))
 
 ```
 
 # Basic Workflow: Quality Control
 
-```{r quality, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+```{r quality, echo=FALSE, message=FALSE, warning=FALSE, out.width= "50%", fig.align='center'}
 knitr::include_graphics(here("Images", "quality_control.png"))
 
 ```
 
 # Basic Workflow: Add to RMS
 
-```{r add, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+```{r add, echo=FALSE, message=FALSE, warning=FALSE, out.width= "65%", fig.align='center'}
 knitr::include_graphics(here("Images", "plugin.png"))
 
 ```

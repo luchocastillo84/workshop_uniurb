@@ -1,14 +1,15 @@
 ---
 title: "Workshop Pilot"
+author:
+- Andrés Aguilera Castillo
+- Luis Carlos Castillo
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  slidy_presentation:
 subtitle: |
   | "How to work with data"
   | University of Urbino
   | PhD Program in Global Studies
-author: 
- - Andrés Aguilera Castillo
- - Luis Carlos Castillo
-date: "`r format(Sys.Date(), '%d %B %Y')`"
-output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -16,15 +17,51 @@ knitr::opts_chunk$set(echo = TRUE)
 library(here)
 ```
 
+## Double check for installation
+
+-   Did you download and install Zotero / Mendeley / EndNote?
+
+    --\> Troubleshoot: Go to Workshop email click relevant link
+
+-   Do you have an account in Web of Science?
+
+    -\> Troubleshoot: uniurb.it --\>IRIS RICERCA --\> Web of Science
+
 ## Computational Tools for Research
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+
+```{r vitruvian, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "unnamed.png"))
+```
+
+-   Exponential growth in scientific output and data available
+
+```{r growth, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+knitr::include_graphics(here("Images", "growth.png"))
+```
+
+
+-   Replicability imperative
+```{r replicability, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+knitr::include_graphics(here("Images", "replicability.png"))
+
+```
+
+
+-   New tools and Best practices
+Computational tools (QL & QT) and Collaboration platforms (Cloud)
+```{r tools, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+knitr::include_graphics(here("Images", "ricerca_sviluppo.png"))
+
 ```
 
 
 ## Reference Management Systems
 
 ## Web of Science Demonstration
+
+Go to uniurb.it -\> IRIS RICERCA
+
+Click WoS Create account
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 

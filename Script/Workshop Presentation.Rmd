@@ -21,11 +21,11 @@ library(here)
 
 -   Did you download and install Zotero / Mendeley / EndNote?
 
-    --\> Troubleshoot: Go to Workshop email click relevant link
+    --> Troubleshoot: Go to Workshop email click relevant link
 
 -   Do you have an account in Web of Science?
 
-    -\> Troubleshoot: uniurb.it --\>IRIS RICERCA --\> Web of Science
+    -> Troubleshoot: uniurb.it -->IRIS RICERCA --> Web of Science
 
 ## Computational Tools for Research
 
@@ -39,22 +39,22 @@ knitr::include_graphics(here("Images", "unnamed.png"))
 knitr::include_graphics(here("Images", "growth.png"))
 ```
 
-
 -   Replicability imperative
+
 ```{r replicability, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "replicability.png"))
 
 ```
 
+-   New tools and Best practices For both QL & QT Better teamwork, allocation of tasks and effort (Cloud)
 
--   New tools and Best practices 
-For both QL & QT 
-Better teamwork, allocation of tasks and effort (Cloud)
 ```{r tools, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "ricerca_sviluppo.png"))
 
 ```
--   Cloud use @ Uniurb?
+
+-   Cloud use \@ Uniurb?
+
 ```{r cloud/urb, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "cloud4dt.png"))
 
@@ -64,7 +64,7 @@ knitr::include_graphics(here("Images", "cloud4dt.png"))
 
 ## Web of Science Demonstration
 
-Go to uniurb.it -\> IRIS RICERCA
+Go to uniurb.it -> IRIS RICERCA
 
 Click WoS Create account
 

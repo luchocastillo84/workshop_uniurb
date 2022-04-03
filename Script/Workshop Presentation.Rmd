@@ -25,7 +25,7 @@ library(here)
 
 -   Do you have an account in Web of Science?
 
-    -> Troubleshoot: uniurb.it -->IRIS RICERCA --> Web of Science
+    --> Troubleshoot: uniurb.it -->IRIS RICERCA --> Web of Science
 
 
 
@@ -42,37 +42,26 @@ knitr::include_graphics(here("Images", "unnamed.png"))
 knitr::include_graphics(here("Images", "growth.png"))
 ```
 
-<<<<<<< HEAD
--   Replicability imperative
-
-=======
 
 # Replicability imperative
->>>>>>> 13ba09403fda863261f89d12ac6e82670cb700bb
+
 ```{r replicability, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "replicability.png"))
 
 ```
 
--   New tools and Best practices For both QL & QT Better teamwork, allocation of tasks and effort (Cloud)
-
-<<<<<<< HEAD
-=======
 # New tools and Best practices 
 For both QL & QT 
 Better teamwork, allocation of tasks and effort (Cloud)
->>>>>>> 13ba09403fda863261f89d12ac6e82670cb700bb
+
 ```{r tools, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "ricerca_sviluppo.png"))
 
 ```
 
-<<<<<<< HEAD
--   Cloud use \@ Uniurb?
 
-=======
 # Cloud use @ Uniurb?
->>>>>>> 13ba09403fda863261f89d12ac6e82670cb700bb
+
 ```{r cloud/urb, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "cloud4dt.png"))
 
@@ -82,13 +71,6 @@ knitr::include_graphics(here("Images", "cloud4dt.png"))
 ## Reference Management Systems
 
 Basic Workflow: Search -> Select relevant -> Add to RMS -> Use for citation
-
-<<<<<<< HEAD
-Go to uniurb.it -> IRIS RICERCA
-
-Click WoS Create account
-=======
->>>>>>> 13ba09403fda863261f89d12ac6e82670cb700bb
 
 
 # PART 3

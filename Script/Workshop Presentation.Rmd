@@ -47,13 +47,18 @@ knitr::include_graphics(here("Images", "replicability.png"))
 ```
 
 
--   New tools and Best practices
-Computational tools (QL & QT) and Collaboration platforms (Cloud)
+-   New tools and Best practices 
+For both QL & QT 
+Better teamwork, allocation of tasks and effort (Cloud)
 ```{r tools, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "ricerca_sviluppo.png"))
 
 ```
+-   Cloud use @ Uniurb?
+```{r cloud/urb, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+knitr::include_graphics(here("Images", "cloud4dt.png"))
 
+```
 
 ## Reference Management Systems
 

@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(here)
 ```
 
-## Double check for installation
+# Double check for installation
 
 -   Did you download and install Zotero / Mendeley / EndNote?
 
@@ -27,61 +27,54 @@ library(here)
 
     -\> Troubleshoot: uniurb.it --\>IRIS RICERCA --\> Web of Science
 
-## Computational Tools for Research
+
+
+
+# Computational Tools for Research
 
 ```{r vitruvian, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "unnamed.png"))
 ```
 
--   Exponential growth in scientific output and data available
+# Exponential growth in scientific output and data available
 
 ```{r growth, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "growth.png"))
 ```
 
 
--   Replicability imperative
+# Replicability imperative
 ```{r replicability, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "replicability.png"))
 
 ```
 
 
--   New tools and Best practices 
+# New tools and Best practices 
 For both QL & QT 
 Better teamwork, allocation of tasks and effort (Cloud)
 ```{r tools, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "ricerca_sviluppo.png"))
 
 ```
--   Cloud use @ Uniurb?
+
+# Cloud use @ Uniurb?
 ```{r cloud/urb, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "cloud4dt.png"))
 
 ```
 
+# PART 2
 ## Reference Management Systems
 
-## Web of Science Demonstration
+Basic Workflow: Search -> Select relevant -> Add to RMS -> Use for citation
+
+
+
+# PART 3
+Web of Science Demonstration
 
 Go to uniurb.it -\> IRIS RICERCA
 
 Click WoS Create account
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

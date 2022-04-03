@@ -17,10 +17,10 @@ library(here)
 ```
 
 ## Computational Tools for Research
+
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "unnamed.png"))
 ```
-
 
 ## Reference Management Systems
 

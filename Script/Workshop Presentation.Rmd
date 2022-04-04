@@ -36,10 +36,11 @@ library(here)
 knitr::include_graphics(here("Images", "unnamed.png"))
 ```
 
-# Exponential growth in scientific output and data available
+# Growth in scientific output and data available since 1980
+Bornmann & Mutz 2015
 
-```{r growth, echo=FALSE, message=FALSE, warning=FALSE, out.width= "65%", fig.align='center'}
-knitr::include_graphics(here("Images", "growth.png"))
+```{r growth, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+knitr::include_graphics(here("Images", "Big_Science.png"))
 ```
 
 
@@ -60,19 +61,19 @@ knitr::include_graphics(here("Images", "ricerca_sviluppo.png"))
 ```
 
 
-# Cloud use @ Uniurb?
+# Digital Transformation in Research
 
-```{r cloud/urb, echo=FALSE, message=FALSE, warning=FALSE, out.width= "65%", fig.align='center'}
-knitr::include_graphics(here("Images", "cloud4dt.png"))
+```{r cloud/urb, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+knitr::include_graphics(here("Images", "teams_win.jpg"))
 
 ```
 
 # PART 2
 ## Reference Management Systems
 
-# Basic Workflow: Incoming
+# Basic Workflow: Incoming to Reference Manager
 
-```{r incoming, echo=FALSE, message=FALSE, warning=FALSE, out.width= "45%", fig.align='center'}
+```{r incoming, echo=FALSE, message=FALSE, warning=FALSE, out.width= "55%", fig.align='center'}
 knitr::include_graphics(here("Images", "Incoming.png"))
 
 ```
@@ -84,7 +85,7 @@ knitr::include_graphics(here("Images", "quality_control.png"))
 
 ```
 
-# Basic Workflow: Add to RMS
+# Basic Workflow: Add to Reference Manager
 
 ```{r add, echo=FALSE, message=FALSE, warning=FALSE, out.width= "65%", fig.align='center'}
 knitr::include_graphics(here("Images", "plugin.png"))
@@ -93,7 +94,7 @@ knitr::include_graphics(here("Images", "plugin.png"))
 
 # Basic Workflow: Cite and Reference
 
-```{r cite, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
+```{r cite, echo=FALSE, message=FALSE, warning=FALSE, out.width= "85%", fig.align='center'}
 knitr::include_graphics(here("Images", "reference.png"))
 
 ```

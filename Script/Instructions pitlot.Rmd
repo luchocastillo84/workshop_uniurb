@@ -1,0 +1,81 @@
+---
+title: "Instructions for Workshop Pilot"
+author:
+- Andrés Aguilera Castillo
+- Luis Carlos Castillo
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: pdf_document
+subtitle: |
+  | Computational Tools for Research – Intro
+  | University of Urbino
+  | PhD Program in Global Studies
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(here)
+```
+
+# 1. Download and Install Reference Management Software of your preference
+
+- Zotero: [[https://www.zotero.org/download/]{.ul}](https://www.zotero.org/download/){.uri}
+
+- Mendeley: [[https://www.mendeley.com/download-reference-manager/windows]{.ul}](https://www.mendeley.com/download-reference-manager/windows){.uri}
+
+- EndNote: [[https://endnote.com/downloads]{.ul}](https://endnote.com/downloads){.uri}
+
+# 2. Create an account with Reference Manager of your preference
+
+Register with your university email
+
+- Zotero: [[https://www.zotero.org/user/register]{.ul}](https://www.zotero.org/user/register){.uri}
+
+- Mendeley: [[https://id.elsevier.com]{.ul}](https://id.elsevier.com){.uri} Enter email -> Continue
+
+- EndNote: [[https://access.clarivate.com/register?app=endnote]{.ul}](https://access.clarivate.com/register?app=endnote){.uri}
+
+# 3. Install the web browser plugins for your preferred Reference Manager
+
+```{r UniUrb, echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(here("Images", "uniurb.png"))
+
+```
+
+Image: Example of plugin for Mendeley and Zotero in Firefox, it is also compatible with chrome and edge. 
+
+
+
+# 4. Install the browser plugin
+
+Open your browser and go to setting -> extensions
+
+-   Zotero Connectors: [[https://www.zotero.org/download/connectors]{.ul}](https://www.zotero.org/download/connectors){.uri}
+
+-   Mendeley Web Importer: [[https://www.mendeley.com/reference-management/web-importer]{.ul}](https://www.mendeley.com/reference-management/web-importer){.uri}
+
+-   EndNote Capture Reference Tool: [[https://support.clarivate.com/Endnote/s/article/EndNote-Capture-Reference-Tool?language=en_US]{.ul}](https://support.clarivate.com/Endnote/s/article/EndNote-Capture-Reference-Tool?language=en_US){.uri}
+
+
+# 5. Create a Web Of Science accountUniurb.it -> IRIS RICERCA -> Web of Science 
+```{r Iris Ricerca, echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(here("Images", "wosuniurb.png"))
+
+```
+
+# Web of Science
+
+If it is your first time in Web of Science -> register with  email
+```{r Web of Science, echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics(here("Images", "wosplat.png"))
+
+```
+
+
+
+
+
+
+
+
+
+

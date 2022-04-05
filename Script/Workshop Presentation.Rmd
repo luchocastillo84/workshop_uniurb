@@ -1,15 +1,15 @@
 ---
 title: "Workshop Pilot"
+subtitle: |
+  | "How to work with data"
+  | University of Urbino
+  | PhD Program in Global Studies
 author:
 - Andrés Aguilera Castillo
 - Luis Carlos Castillo
 date: "`r format(Sys.Date(), '%d %B %Y')`"
 output:
-  slidy_presentation:
-subtitle: |
-  | "How to work with data"
-  | University of Urbino
-  | PhD Program in Global Studies
+  slidy_presentation
 ---
 
 ```{r setup, include=FALSE}
@@ -27,9 +27,6 @@ library(here)
 
     --> Troubleshoot: uniurb.it -->IRIS RICERCA --> Web of Science
 
-
-
-
 # Computational Tools for Research
 
 ```{r vitruvian, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
@@ -37,12 +34,12 @@ knitr::include_graphics(here("Images", "unnamed.png"))
 ```
 
 # Growth in scientific output and data available since 1980
+
 Bornmann & Mutz 2015
 
 ```{r growth, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "Big_Science.png"))
 ```
-
 
 # Replicability imperative
 
@@ -51,15 +48,14 @@ knitr::include_graphics(here("Images", "replicability.png"))
 
 ```
 
-# New tools and Best practices 
-For both QL & QT 
-Better teamwork, allocation of tasks and effort (Cloud)
+# New tools and Best practices
+
+For both QL & QT Better teamwork, allocation of tasks and effort (Cloud)
 
 ```{r tools, echo=FALSE, message=FALSE, warning=FALSE, out.width= "75%", fig.align='center'}
 knitr::include_graphics(here("Images", "ricerca_sviluppo.png"))
 
 ```
-
 
 # Digital Transformation in Research
 
@@ -69,6 +65,7 @@ knitr::include_graphics(here("Images", "teams_win.jpg"))
 ```
 
 # PART 2
+
 ## Reference Management Systems
 
 # Basic Workflow: Incoming to Reference Manager
@@ -87,7 +84,7 @@ knitr::include_graphics(here("Images", "quality_control.png"))
 
 # Basic Workflow: Add to Reference Manager
 
-```{r add, echo=FALSE, message=FALSE, warning=FALSE, out.width= "65%", fig.align='center'}
+```{r add, echo=FALSE, message=FALSE, warning=FALSE, out.width= "40%", fig.align='center'}
 knitr::include_graphics(here("Images", "plugin.png"))
 
 ```
@@ -100,9 +97,37 @@ knitr::include_graphics(here("Images", "reference.png"))
 ```
 
 # PART 3
-Web of Science Demonstration
 
-Go to uniurb.it -\> IRIS RICERCA
+## Web of Science Demonstration 🔑
+
+## How to search scientific papers 🗃️
+
+## How to create alerts 🔔
+
+# Let's get started
+
+Go to uniurb.it -> IRIS RICERCA
 
 Click WoS Create account
 
+# Build better searches for systematic literature review
+
+## This search engine look for variations:
+
+-   American vs British English
+
+-   Plural forms and nouns
+
+-   Verb tense changes
+
+# Search operators (Boolean)
+
+-   AND / OR
+
+## Search symbols 
+
+-   \* Any numbers or characters
+
+    -   investment -> invest\* = investors, investment, invested, investing...
+
+-   " " Exact phrases

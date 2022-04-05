@@ -136,3 +136,5 @@ Click WoS Create account
     -   investment -> invest\* = investors, investment, invested, investing...
 
 -   " " Exact phrases
+    - "foreign investment"
+    - "greenfield investment"

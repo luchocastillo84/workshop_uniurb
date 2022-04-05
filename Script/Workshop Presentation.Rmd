@@ -33,7 +33,7 @@ library(here)
 knitr::include_graphics(here("Images", "unnamed.png"))
 ```
 
-# Growth in scientific output and data available since 1980
+# Growth in scientific output since 1980
 
 Bornmann & Mutz 2015
 
@@ -67,6 +67,11 @@ knitr::include_graphics(here("Images", "teams_win.jpg"))
 # PART 2
 
 ## Reference Management Systems
+```{r compare, echo=FALSE, message=FALSE, warning=FALSE, out.width= "65%", fig.align='center'}
+knitr::include_graphics(here("Images", "rms_comparison.png"))
+
+```
+
 
 # Basic Workflow: Incoming to Reference Manager
 
@@ -82,7 +87,7 @@ knitr::include_graphics(here("Images", "quality_control.png"))
 
 ```
 
-# Basic Workflow: Add to Reference Manager
+# Basic Workflow: Plugins "one-click" add to Reference Manager
 
 ```{r add, echo=FALSE, message=FALSE, warning=FALSE, out.width= "40%", fig.align='center'}
 knitr::include_graphics(here("Images", "plugin.png"))

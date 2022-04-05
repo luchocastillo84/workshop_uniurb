@@ -4,19 +4,6 @@
 %
 \documentclass[
 ]{article}
-\title{Instructions for Workshop Pilot}
-\usepackage{etoolbox}
-\makeatletter
-\providecommand{\subtitle}[1]{% add subtitle to \maketitle
-  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
-}
-\makeatother
-\subtitle{Computational Tools for Research -- Intro\\
-University of Urbino\\
-PhD Program in Global Studies}
-\author{Andrés Aguilera Castillo \and Luis Carlos Castillo}
-\date{05 April 2022}
-
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
 \usepackage{iftex}
@@ -68,6 +55,9 @@ PhD Program in Global Studies}
 \makeatletter
 \def\fps@figure{htbp}
 \makeatother
+\usepackage[normalem]{ulem}
+% Avoid problems with \sout in headers with hyperref
+\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -75,6 +65,19 @@ PhD Program in Global Studies}
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
+
+\title{Instructions for Workshop Pilot}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Computational Tools for Research -- Intro\\
+University of Urbino\\
+PhD Program in Global Studies}
+\author{Andrés Aguilera Castillo \and Luis Carlos Castillo}
+\date{05 April 2022}
 
 \begin{document}
 \maketitle
@@ -86,13 +89,13 @@ preference}\label{download-and-install-reference-management-software-of-your-pre
 \begin{itemize}
 \item
   Zotero:
-  \href{https://www.zotero.org/download/}{\underline{https://www.zotero.org/download/}}
+  \href{https://www.zotero.org/download/}{\uline{https://www.zotero.org/download/}}
 \item
   Mendeley:
-  \href{https://www.mendeley.com/download-reference-manager/windows}{\underline{https://www.mendeley.com/download-reference-manager/windows}}
+  \href{https://www.mendeley.com/download-reference-manager/windows}{\uline{https://www.mendeley.com/download-reference-manager/windows}}
 \item
   EndNote:
-  \href{https://endnote.com/downloads}{\underline{https://endnote.com/downloads}}
+  \href{https://endnote.com/downloads}{\uline{https://endnote.com/downloads}}
 \end{itemize}
 
 \hypertarget{create-an-account-with-reference-manager-of-your-preference}{%
@@ -104,21 +107,21 @@ Register with your university email
 \begin{itemize}
 \item
   Zotero:
-  \href{https://www.zotero.org/user/register}{\underline{https://www.zotero.org/user/register}}
+  \href{https://www.zotero.org/user/register}{\uline{https://www.zotero.org/user/register}}
 \item
   Mendeley:
-  \href{https://id.elsevier.com}{\underline{https://id.elsevier.com}}
-  Enter email -\textgreater{} Continue
+  \href{https://id.elsevier.com}{\uline{https://id.elsevier.com}} Enter
+  email -\textgreater{} Continue
 \item
   EndNote:
-  \href{https://access.clarivate.com/register?app=endnote}{\underline{https://access.clarivate.com/register?app=endnote}}
+  \href{https://access.clarivate.com/register?app=endnote}{\uline{https://access.clarivate.com/register?app=endnote}}
 \end{itemize}
 
 \hypertarget{install-the-web-browser-plugins-for-your-preferred-reference-manager}{%
 \section{3. Install the web browser plugins for your preferred Reference
 Manager}\label{install-the-web-browser-plugins-for-your-preferred-reference-manager}}
 
-\begin{center}\includegraphics[width=1\linewidth]{/Users/lcastillot/Dropbox/Tesis/2021/Italy/Urbino/Data/Repos/workshop_uniurb/Images/uniurb} \end{center}
+\begin{center}\includegraphics[width=1\linewidth]{C:/Users/eagle/Documents/GitHub/workshop_uniurb/Images/uniurb} \end{center}
 
 Image: Example of plugin for Mendeley and Zotero in Firefox, it is also
 compatible with chrome and edge.
@@ -132,13 +135,13 @@ Open your browser and go to setting -\textgreater{} extensions
 \begin{itemize}
 \item
   Zotero Connectors:
-  \href{https://www.zotero.org/download/connectors}{\underline{https://www.zotero.org/download/connectors}}
+  \href{https://www.zotero.org/download/connectors}{\uline{https://www.zotero.org/download/connectors}}
 \item
   Mendeley Web Importer:
-  \href{https://www.mendeley.com/reference-management/web-importer}{\underline{https://www.mendeley.com/reference-management/web-importer}}
+  \href{https://www.mendeley.com/reference-management/web-importer}{\uline{https://www.mendeley.com/reference-management/web-importer}}
 \item
   EndNote Capture Reference Tool:
-  \href{https://support.clarivate.com/Endnote/s/article/EndNote-Capture-Reference-Tool?language=en_US}{\underline{https://support.clarivate.com/Endnote/s/article/EndNote-Capture-Reference-Tool?language=en\_US}}
+  \href{https://support.clarivate.com/Endnote/s/article/EndNote-Capture-Reference-Tool?language=en_US}{\uline{https://support.clarivate.com/Endnote/s/article/EndNote-Capture-Reference-Tool?language=en\_US}}
 \end{itemize}
 
 \hypertarget{create-a-web-of-science-account-uniurb.it---iris-ricerca---web-of-science}{%
@@ -146,7 +149,7 @@ Open your browser and go to setting -\textgreater{} extensions
 IRIS RICERCA -\textgreater{} Web of
 Science}\label{create-a-web-of-science-account-uniurb.it---iris-ricerca---web-of-science}}
 
-\begin{center}\includegraphics[width=1\linewidth]{/Users/lcastillot/Dropbox/Tesis/2021/Italy/Urbino/Data/Repos/workshop_uniurb/Images/wosuniurb} \end{center}
+\begin{center}\includegraphics[width=1\linewidth]{C:/Users/eagle/Documents/GitHub/workshop_uniurb/Images/wosuniurb} \end{center}
 
 \hypertarget{web-of-science}{%
 \section{Web of Science}\label{web-of-science}}
@@ -154,6 +157,6 @@ Science}\label{create-a-web-of-science-account-uniurb.it---iris-ricerca---web-of
 If it is your first time in Web of Science -\textgreater{} register with
 email
 
-\begin{center}\includegraphics[width=1\linewidth]{/Users/lcastillot/Dropbox/Tesis/2021/Italy/Urbino/Data/Repos/workshop_uniurb/Images/wosplat} \end{center}
+\begin{center}\includegraphics[width=1\linewidth]{C:/Users/eagle/Documents/GitHub/workshop_uniurb/Images/wosplat} \end{center}
 
 \end{document}

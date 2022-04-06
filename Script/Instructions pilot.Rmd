@@ -4,7 +4,7 @@ author:
 - Andrés Aguilera Castillo
 - Luis Carlos Castillo
 date: "`r format(Sys.Date(), '%d %B %Y')`"
-output: pdf_document
+output: slidy_presentation
 subtitle: |
   | Computational Tools for Research – Intro
   | University of Urbino
@@ -12,7 +12,11 @@ subtitle: |
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = TRUE,
+	warning = TRUE
+)
 library(here)
 ```
 

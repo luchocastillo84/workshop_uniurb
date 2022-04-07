@@ -138,3 +138,34 @@ Click WoS Create account
 -   " " Exact phrases
     - "foreign investment"
     - "greenfield investment"
+
+# Demonstration on Web of Science
+Hands on WoS platform 
+    
+    
+    
+# Questions after this exercise 
+
+After doing this exercise what questions can I ask...
+
+
+```{r question, echo=FALSE, message=FALSE, warning=FALSE, out.width= "45%", fig.align='center'}
+knitr::include_graphics(here("Images", "so_what.png"))
+
+```
+
+# Questions 
+
+- What are the most cited and influential authors?
+- How is the research output in different fields?
+- What are the journals with more publications?
+
+
+
+
+
+
+
+
+
+

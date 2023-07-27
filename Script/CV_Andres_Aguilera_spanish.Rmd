@@ -1,0 +1,296 @@
+---
+title: "Andres Aguilera-Castillo CV"
+author: Andres Aguilera Castillo
+date: "`r Sys.Date()`"
+output: 
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+    css:
+      - resume
+      - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+# Aside
+
+## Información Personal {#contact}
+
+-   <i class="fa fa-id-card"></i> Ciudadanía: Colombiana
+-   <i class="fa fa-calendar"></i> Fecha de nacimiento: 17/10/1983
+-   [a.aguileracastillo\@campus.uniurb.it](mailto:a.aguileracastillo@campus.uniurb.it){.email}
+-   <i class="ai ai-google-scholar-square"></i> [scholar.google/Andres_Aguilera](https://scholar.google.com/citations?user=0zpgr1sAAAAJ&hl=it)
+-   <i class="fa fa-github"></i> [github.com/aguileracastillo](https://github.com/aguileracastillo)
+-   <i class="fa fa-linkedin"></i> [linkedin/andres-aguilera-castillo](https://bit.ly/3qoX9Dx)
+-   <i class="fa fa-phone"></i> +57-313-278-4606 ‬
+-   Para mayor información, por favor contactarme via email.
+
+## Habilidades lingüísticas {#languageskills}
+
+-   **Lengua materna:** Español
+-   **Idiomas extranjeros:**
+-   Inglés: Toelf 103/120
+-   Italiano: CILS B2
+-   Coreano: A2
+
+## Habilidades {#skills}
+
+Habilidad para evaluar y presentar información de manera sistemática. Habilidades de comunicación avanzadas tanto verbalmente como por escrito. Habilidades básicas en minería de texto y procesamiento de lenguaje natural. Conocimientos intermedios en lenguaje de programación R.
+
+## Disclaimer {#disclaimer}
+
+
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## Andres Aguilera Castillo {#title}
+
+### Perfil
+
+<p style="text-align: justify;">
+
+Candidato a Doctor en Estudios Globales. Global Studies (International Economic Policy, Business and Governance Track). Mi investigación doctoral explora los vínculos entre las tecnologías digitales y la organización del trabajo en las organizaciones públicas. Mi experiencia laboral incluye diversas instituciones académicas en Colombia y multinacionales de Corea del Sur. Recientemente, he tenido un interés creciente en la ciencia de datos para aprender y enseñar cómo trabajar con datos.
+
+</p>
+
+## Educación {data-icon="graduation-cap" data-concise="true"}
+
+### University of Urbino
+
+Ph.D. (c) en Estudios Globales (ABD)
+
+Urbino, Italia
+
+Sep/2019 - Present (graduacion esperada Otoño '23)
+
+<p style="text-align: justify;">
+
+**Proyecto de investigación:** *"Digitalization in the Public Sector: A Labor-saving technology?"*
+
+</p>
+
+### Korea University
+
+Maestría en Comercio Internacional (convalidada)
+
+Seúl, Corea del Sur
+
+Mar/2009 - Feb/2011
+
+<p style="text-align: justify;">
+
+**Tesis:** *“Colombia’s Mining Industry: Opportunities for Korean Investment in Natural Resource Development”*
+
+Calificación Final A+ (4.5/4.5)
+
+</p>
+
+### Universidad Nacional de Colombia
+
+Pregrado en Ciencias Políticas
+
+Bogotá, Colombia
+
+Feb/2000 - Dic/2004
+
+<p style="text-align: justify;">
+
+**Monografía:** *“El Movimiento Comunal y Comunitario en el Contexto de las Terceras Fuerzas Políticas en Colombia”*
+
+Calificación Final 4.7/5.0
+
+</p>
+
+### Ciencia de datos Online Education -DataCamp-
+
+[Data Analyst with R programming language](https://www.datacamp.com/profile/andresaguilerac)
+
+Online
+
+Jun/2020 - Actualidad
+
+<p style="text-align: justify;">
+
+**Motivación:** *Nosotros (los investigadores y la sociedad en general) necesitamos mejores herramientas para aprovechar y liberar el potencial de la creciente cantidad de datos creados y almacenados hasta la fecha.*
+
+
+</p>
+
+## Experiencia profesional {data-icon="suitcase"}
+
+### Profesor Universitario (programas de posgrado)
+
+Universidad Externado de Colombia (*tiempo parcial*)
+
+Bogotá, Colombia
+
+May/2023 - Actualmente
+
+-   Profesor en los programas de posgrado que ofrece el Centro de Tecnología y Analítica, Facultad de Administración de Empresas
+
+### Profesor Universitario (programas de pregrado)
+
+Universidad Nacional de Colombia (*tiempo parcial*)
+
+Bogotá, Colombia
+
+Feb/2023 - Actualmente
+
+-   Docente ocasional de la Facultad de Ciencias Económicas
+-   Clase de pregrado en Internacionalización de Empresas
+
+
+### Estudiante de Doctorado Visitante
+
+Estonian Business School (*tiempo completo*)
+
+Tallin, Estonia
+
+Ago/2021 - Mar/2022
+
+-   Periodo de investigación en el extranjero como parte del proyecto de investigación doctoral. 
+-   Actividades de recopilación de datos sobre la digitalización del sector público de Estonia.
+
+
+### Profesor asociado en negocios internacionales
+
+Universidad EAN (*tiempo completo*)
+
+Bogotá, Colombia
+
+Jul/2015 - Sep/2019
+
+-   Docente en la carrera de Negocios Internacionales.
+-   Revisión, evaluación y aprobación de actualizaciones de planes de estudio.
+-   Miembro del comité de selección de nuevos profesores y expertos a incorporar a nuestro programa.
+
+### Profesor asociado en negocios internacionales
+
+Universidad de la Salle (*inicialmente a tiempo parcial luego a tiempo completo*)
+
+Bogotá, Colombia
+
+Jun/2013 - Jun/2015
+
+-   Docente en la carrera de Negocios y Relaciones Internacionales.
+-   Coordinación de eventos, actualizaciones curriculares, labores administrativas asociadas a la administración del programa de pregrado.
+-   Enlace de proyectos especiales (X-Culture).
+
+### Profesor Asistente en Negocios Internacionales
+
+Universidad Colegio Mayor de Cundinamarca (*tiempo completo*)
+
+Bogotá, Colombia
+
+Feb/2013 - Dic/2013
+
+-   Profesor del pregrado en Economía.
+-   Coordinación de eventos.
+-   Actividades de investigación explorando los orígenes de los Fondos Soberanos de Inversión para la gestión de recursos nacionales. (*interrumpido/desfinanciado*)
+
+### Especialista de Linea de Productos 
+
+LG Electronics Colombia, Ltd. (*tiempo completo*)
+
+Bogotá, Colombia
+
+Sep/2012 - Ene/2013
+
+-   Diseño e implementación de estrategias de marketing para la división de Electrodomésticos de LG Electronics filial colombiana.
+
+### Analista de Marketing 
+
+LG Electronics, Inc. (*tiempo completo*)
+
+Seúl, Corea del Sur
+
+Ago/2011 - Ago/2012
+
+-   Realizar análisis de mercado para el Equipo de Marketing de TV y Señalización Digital de América Latina.
+-   Monitorear y reportar indicadores de mercado para la división de TV y Signage de la región latinoamericana: ventas, participación de mercado, rentabilidad e inventario.
+
+### Pasante asalariado 
+
+Pumyang Construction Co. Ltd. (*tiempo completo*)
+
+Seúl, Corea del Sur
+
+Feb/2010 - Sep/2010
+
+-   Monitorear, analizar e informar las tendencias en los mercados de metales industriales en América Latina.
+-   Búsqueda de nuevos proveedores de chatarra industrial de metales de alta recuperación en la región latinoamericana (principalmente en Brasil, México, Chile y Colombia).
+-   Búsqueda de contratación pública (licitaciones) para obras de construcción en Latinoamérica y reporte a la Unidad de Negocios en el Extranjero para su evaluación.
+
+## Premios {data-icon="award"}
+
+### Premio al mejor instructor de X-Culture
+
+X-Culture es un programa internacional de gestión intercultural que permite a los estudiantes trabajar en equipos virtuales globales con compañeros de todo el mundo para resolver los desafíos de internacionalización de las pequeñas y medianas empresas. Los datos de X-Culture se han utilizado para investigaciones comerciales internacionales de alto impacto. Los eventos de la Academia de Negocios Internacionales (AIB) han sido un lugar habitual para presentar nuevas investigaciones y características del proyecto. [Best Instructors 2017-2](https://x-culture.org/2017-2-best-instructor/)
+
+N/A
+
+
+
+Dic/2017
+
+
+## Publicaciones destacadas {data-icon="file"}
+
+### Digital Transformation and the Public Sector Workforce: An exploration and research agenda
+
+ICEGOV 2021: 14th International Conference on Theory and Practice of Electronic Governance
+
+N/A
+
+Conference Paper
+
+Aguilera-Castillo (2021) Available at: https://doi.org/10.1145/3494193.3494257
+
+### Effectuation Theory and International Business Research: A Bibliometric Overview
+
+Book: Emerging Issues in International Business and Global Strategy
+
+N/A
+
+Book Chapter
+
+Gil-Barragan *et. al.* (2021) Available at: https://doi.org/10.1142/9789811228445_0001
+
+### Simulations in business education: A case study of cesim™ global challenge
+
+Book: Teaching, Learning, and Leading With Computer Simulations
+
+N/A
+
+Book Chapter
+
+
+Aguilera-Castillo *et. al.* (2020) Available at: https://doi.org/10.4018/978-1-7998-0004-0.ch005
+
+### A Bibliometric Analysis of China–Latin America Economic and Political Relations
+
+Journal: Latin American Policy
+
+N/A
+
+Journal Article
+
+Aguilera-Castillo *et. al.* (2020) Available at: https://doi.org/10.1111/lamp.12191
+
+###
+
+Para obtener una lista completa de las publicaciones, consulte [Scholar Profile](https://scholar.google.com/citations?user=0zpgr1sAAAAJ&hl=it)
+
+N/A
+
+</p>
+
+## Referencias profesionales {data-icon="envelope"}
+
+### 
+
+Serán provistas cuando sean solicitadas durante el proceso de aplicación a la posición.
+
+

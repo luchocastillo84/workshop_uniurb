@@ -19,7 +19,7 @@ knit: pagedown::chrome_print
 
 -   <i class="fa fa-id-card"></i> Ciudadanía: Colombiana
 -   <i class="fa fa-calendar"></i> Fecha de nacimiento: 17/10/1983
--   [a.aguileracastillo\@campus.uniurb.it](mailto:a.aguileracastillo@campus.uniurb.it){.email}
+-   [andres.aguilerac\@gmail.com](mailto:andres.aguilerac@gmail.com){.email}
 -   <i class="ai ai-google-scholar-square"></i> [scholar.google/Andres_Aguilera](https://scholar.google.com/citations?user=0zpgr1sAAAAJ&hl=it)
 -   <i class="fa fa-github"></i> [github.com/aguileracastillo](https://github.com/aguileracastillo)
 -   <i class="fa fa-linkedin"></i> [linkedin/andres-aguilera-castillo](https://bit.ly/3qoX9Dx)
@@ -51,7 +51,7 @@ Last updated on `r Sys.Date()`.
 
 <p style="text-align: justify;">
 
-Candidato a Doctor en Estudios Globales. Global Studies (International Economic Policy, Business and Governance Track). Mi investigación doctoral explora los vínculos entre las tecnologías digitales y la organización del trabajo en las organizaciones públicas. Mi experiencia laboral incluye diversas instituciones académicas en Colombia y multinacionales de Corea del Sur. Recientemente, he tenido un interés creciente en la ciencia de datos para aprender y enseñar cómo trabajar con datos.
+Doctor en Estudios Globales de la Universidad de Urbino, Italia.Mi investigación doctoral explora los vínculos entre las tecnologías digitales y la organización del trabajo en las organizaciones públicas. Mi experiencia laboral incluye diversas instituciones académicas en Colombia y multinacionales de Corea del Sur. Recientemente, he tenido un interés creciente en la ciencia de datos para aprender y enseñar cómo trabajar con datos.
 
 </p>
 
@@ -59,15 +59,15 @@ Candidato a Doctor en Estudios Globales. Global Studies (International Economic 
 
 ### University of Urbino
 
-Ph.D. (c) en Estudios Globales (ABD)
+Ph.D. en Estudios Globales
 
 Urbino, Italia
 
-Sep/2019 - Present (graduacion esperada Otoño '23)
+Sep/2019 - Nov/2023
 
 <p style="text-align: justify;">
 
-**Proyecto de investigación:** *"Digitalization in the Public Sector: A Labor-saving technology?"*
+**Titulo de la tesis:** [Digitalization in the Public Sector: A Labor-saving technology?](https://ora.uniurb.it/handle/11576/2725291)
 
 </p>
 

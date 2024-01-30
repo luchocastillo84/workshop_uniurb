@@ -1,0 +1,296 @@
+---
+title: "Andres Aguilera-Castillo CV"
+author: Andres Aguilera Castillo
+date: "`r Sys.Date()`"
+output: 
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+    css:
+      - resume
+      - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+# Aside
+
+## Personal Info {#contact}
+
+-   <i class="fa fa-id-card"></i> Citizenship: Colombian
+-   <i class="fa fa-calendar"></i> Date of Birth: 17/10/1983
+-   [andres.aguilerac\@gmail.com](mailto:andres.aguilerac@gmail.com){.email}
+-   <i class="ai ai-google-scholar-square"></i> [scholar.google/Andres_Aguilera](https://scholar.google.com/citations?user=0zpgr1sAAAAJ&hl=it)
+-   <i class="fa fa-github"></i> [github.com/aguileracastillo](https://github.com/aguileracastillo)
+-   <i class="fa fa-linkedin"></i> [linkedin/andres-aguilera-castillo](https://bit.ly/3qoX9Dx)
+-   <i class="fa fa-phone"></i> +57-313-278-4606 ‬
+-   For more information, please contact me via email.
+
+## Language Skills {#languageskills}
+
+-   **Native language:** Spanish
+-   **Foreign languages:**
+-   English: Toelf 103/120
+-   Italian: CILS B2
+-   Korean: A2
+
+## Skills {#skills}
+
+Research skills: Ability to locate, extract, organize, evaluate and present information in a systematic way. Communication skills: Ability to exchange information and ideas both verbally and in writing. Intermediate data literacy in academic, organizational and managerial contexts. Basic skills in text mining and natural language processing. Intermediate skills in R programming language.
+
+## Disclaimer {#disclaimer}
+
+
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## Andres Aguilera Castillo {#title}
+
+### Profile
+
+<p style="text-align: justify;">
+
+Ph.D. in Global Studies (International Economic Policy, Business and Governance Track). My doctoral research explores the linkages between digital technologies and the organization of work in public organizations. My work experience includes diverse academic institutions in Colombia and South Korean multinationals. I consider myself a *boundary spanner* due to the cultivation of diversified intellectual interests and networks in areas such as economics, entrepreneurship, technology and policy. Recently, I have had a growing interest in data science to learn and teach how to work with data.
+
+</p>
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### University of Urbino
+
+Ph.D. in Global Studies
+
+Urbino, Italy
+
+Sep/2019 - Nov/2023)
+
+<p style="text-align: justify;">
+
+**Thesis Title:** [Digitalization in the Public Sector: A Labor-saving technology?](https://ora.uniurb.it/handle/11576/2725291)
+
+</p>
+
+### Korea University
+
+M.A. in International Commerce
+
+Seoul, South Korea
+
+Mar/2009 - Feb/2011
+
+<p style="text-align: justify;">
+
+**Thesis:** *“Colombia’s Mining Industry: Opportunities for Korean Investment in Natural Resource Development”*
+
+Grade A+ (4.5/4.5)
+
+</p>
+
+### Universidad Nacional de Colombia
+
+B.A. in Political Science
+
+Bogota, Colombia
+
+Feb/2000 - Dec/2004
+
+<p style="text-align: justify;">
+
+**Monograph:** *“El Movimiento Comunal y Comunitario en el Contexto de las Terceras Fuerzas Políticas en Colombia”*
+
+Grade 4.7/5.0
+
+</p>
+
+### Data Science Online Education -DataCamp-
+
+[Data Analyst with R programming language](https://www.datacamp.com/profile/andresaguilerac)
+
+Online
+
+Jun/2020 - Present
+
+<p style="text-align: justify;">
+
+**Motivation:** *We (researchers and society at large) need better tools in order to harness and unleash the potential of the increasing amount of data created and stored up to date.*
+
+
+</p>
+
+## Professional Experience {data-icon="suitcase"}
+
+### University Professor (graduate programs)
+
+Universidad Externado de Colombia (*part time*)
+
+Bogotá, Colombia
+
+May/2023 - Current
+
+-   Lecturer in the graduate programs offered by the Centro de Tecnología y Análitica, School of Business Administration
+
+### University Professor (undergraduate programs)
+
+Universidad Nacional de Colombia (*part time*)
+
+Bogotá, Colombia
+
+Feb/2023 - Current
+
+-   Lecturer in the School of Economics
+-   Undergraduate class in Internationalization of Firms
+
+
+### Visiting Doctoral Student
+
+Estonian Business School (*full time*)
+
+Tallinn, Estonia
+
+Aug/2021 - Mar/2022
+
+-   Research period abroad as part of the doctoral research project. 
+-   Data gathering activities on the digitalization of the Estonian public sector.
+
+
+### Associate Professor in International Business
+
+Universidad EAN (*full time*)
+
+Bogota, Colombia
+
+Jul/2015 - Sep/2019
+
+-   Lecture in the International Business undergraduate program.
+-   Revision, assessment and approval of syllabi updates. 
+-   Member of the selection committee for new lecturers and experts to be hired by our program.
+
+### Associate Professor in International Business
+
+Universidad de la Salle (*initially part-time then full time*)
+
+Bogota, Colombia
+
+Jun/2013 - Jun/2015
+
+-   Lecture in the International Business and International Relations undergraduate program.
+-   Event coordination, curriculum updates, administrative duties associated to the administration of the undergraduate program.
+-   Special projects liaison (X-Culture).
+
+### Assistant Professor in International Business
+
+Universidad Colegio Mayor de Cundinamarca (*full time*)
+
+Bogota, Colombia
+
+Feb/2013 - Dec/2013
+
+-   Lecturer in the Economics undergraduate program.
+-   Event coordination.
+-   Research activities exploring the origins of Sovereign Wealth Funds for resource revenue management. (*interrupted/defunded*)
+
+### Product Specialist 
+
+LG Electronics Colombia, Ltd. (*full time*)
+
+Bogota, Colombia
+
+Sep/2012 - Jan/2013
+
+-   Design and implementation of marketing strategies for the Home Appliances division of LG Electronics Colombian subsidiary.
+
+### Marketing Analyst 
+
+LG Electronics, Inc. (*full time*)
+
+Seoul, South Korea
+
+Aug/2011 - Aug/2012
+
+-   Perform market analysis for the TV and Digital Signage Latin American Marketing Team.
+-   Monitor and report market indicators for the Latin American region TV and Signage division: sales, market share, profitability and inventory.
+
+### Salaried Intern 
+
+Pumyang Construction Co. Ltd. (*full time*)
+
+Seoul, South Korea
+
+Feb/2010 - Sep/2010
+
+-   Monitor, analyze and report the trends in industrial metals markets in Latin America.
+-   Search for new suppliers of highly-recoverable industrial metals scrap in the Latin American region (mainly in Brazil, Mexico, Chile and Colombia).
+-   Search for public procurement (tenders) for construction works in Latin America and report to the Overseas Business Unit for evaluation.
+
+## Awards {data-icon="award"}
+
+### X-Culture Best Instructor Award 
+
+X-Culture is an international program for cross-cultural management that allows students to work in Global Virtual Teams with peers from all over the world to solve internationalization challenges for small and medium enterprises. X-Culture data has been used for high impact international business research. The Academy of International Business (AIB) events have been a regular venue for presenting new research and features of the project. [Best Instructors 2017-2](https://x-culture.org/2017-2-best-instructor/)
+
+N/A
+
+
+
+Dec/2017
+
+
+## Featured Publications {data-icon="file"}
+
+### Digital Transformation and the Public Sector Workforce: An exploration and research agenda
+
+ICEGOV 2021: 14th International Conference on Theory and Practice of Electronic Governance
+
+N/A
+
+Conference Paper
+
+Aguilera-Castillo (2021) Available at: https://doi.org/10.1145/3494193.3494257
+
+### Effectuation Theory and International Business Research: A Bibliometric Overview
+
+Book: Emerging Issues in International Business and Global Strategy
+
+N/A
+
+Book Chapter
+
+Gil-Barragan *et. al.* (2021) Available at: https://doi.org/10.1142/9789811228445_0001
+
+### Simulations in business education: A case study of cesim™ global challenge
+
+Book: Teaching, Learning, and Leading With Computer Simulations
+
+N/A
+
+Book Chapter
+
+
+Aguilera-Castillo *et. al.* (2020) Available at: https://doi.org/10.4018/978-1-7998-0004-0.ch005
+
+### A Bibliometric Analysis of China–Latin America Economic and Political Relations
+
+Journal: Latin American Policy
+
+N/A
+
+Journal Article
+
+Aguilera-Castillo *et. al.* (2020) Available at: https://doi.org/10.1111/lamp.12191
+
+###
+
+For a complete list of publications please refer to the [Scholar Profile](https://scholar.google.com/citations?user=0zpgr1sAAAAJ&hl=it)
+
+N/A
+
+</p>
+
+## References {data-icon="envelope"}
+
+### 
+
+Provided upon request
+
+

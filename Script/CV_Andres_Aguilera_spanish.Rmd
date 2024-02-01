@@ -51,7 +51,7 @@ Last updated on `r Sys.Date()`.
 
 <p style="text-align: justify;">
 
-Doctor en Estudios Globales de la Universidad de Urbino, Italia. Mi investigación doctoral explora los vínculos entre las tecnologías digitales y la organización del trabajo en las organizaciones públicas. Mi experiencia laboral incluye diversas instituciones académicas en Colombia y multinacionales de Corea del Sur. Recientemente, he tenido un interés creciente en la ciencia de datos para aprender y enseñar cómo trabajar con datos.
+PhD en Estudios Globales de la Universidad de Urbino, Italia. Maestría en Comercio Internacional de la Universidad de Corea. Pregrado en Ciencias Políticas de la Universidad Nacional de Colombia, Bogotá. La experiencia profesional incluye roles en *marketing* y *business development* en multinacionales coreanas de la electrónica, construcción y el comercio de *commodities*. La experiencia como docente incluye formación al nivel de posgrado, pregrado y educación ejecutiva en temas de economía internacional, gerencia global e innovación tecnológica. Durante el doctorado, fue investigador visitante en la *Estonian Business School*, Estonia. 
 
 </p>
 

@@ -36,7 +36,7 @@ knit: pagedown::chrome_print
 
 ## Skills {#skills}
 
-Research skills: Ability to locate, extract, organize, evaluate and present information in a systematic way. Communication skills: Ability to exchange information and ideas both verbally and in writing. Intermediate data literacy in academic, organizational and managerial contexts. Basic skills in text mining and natural language processing. Intermediate skills in R programming language.
+Research skills: Ability to locate, extract, organize, evaluate and present information in a systematic way. Communication skills: Ability to exchange information and ideas both verbally and in writing. Intermediate data literacy in academic, organizational and managerial contexts. Skills in text mining and natural language processing. Intermediate skills in R programming language.
 
 ## Disclaimer {#disclaimer}
 
@@ -51,7 +51,7 @@ Last updated on `r Sys.Date()`.
 
 <p style="text-align: justify;">
 
-Ph.D. in Global Studies (International Economic Policy, Business and Governance Track). My doctoral research explores the linkages between digital technologies and the organization of work in public organizations. My work experience includes diverse academic institutions in Colombia and South Korean multinationals. I consider myself a *boundary spanner* due to the cultivation of diversified intellectual interests and networks in areas such as economics, entrepreneurship, technology and policy. Recently, I have had a growing interest in data science to learn and teach how to work with data.
+Ph.D. in Global Studies (International Economic Policy, Business and Governance Track). My doctoral research explores the linkages between digital technologies and the organization of work in public organizations in Europe. My work experience includes diverse academic institutions in Colombia and South Korean multinationals. I consider myself a *boundary spanner* due to the cultivation of diversified intellectual interests and networks in areas such as economics, entrepreneurship, technology and policy. I have lived and worked in large cities like Bogota, Colombia and Seoul, South Korea and smallish cities like Tallinn, Estonia and Urbino, Italy.
 
 </p>
 
@@ -67,7 +67,7 @@ Sep/2019 - Nov/2023)
 
 <p style="text-align: justify;">
 
-**Thesis Title:** [Digitalization in the Public Sector: A Labor-saving technology?](https://ora.uniurb.it/handle/11576/2725291)
+**Thesis Title:** [Digitalization in the Public Sector: A Labor-saving technology?](https://ora.uniurb.it/handle/11576/2725291) A multi-method approach to the research problem.
 
 </p>
 
@@ -128,7 +128,7 @@ Bogotá, Colombia
 
 May/2023 - Current
 
--   Lecturer in the graduate programs offered by the Centro de Tecnología y Análitica, School of Business Administration
+-   Lecturer of the classes 1) Artificial Intelligence and Firms; 2) New Technologies, in the graduate programs offered by the Centro de Tecnología y Análitica, School of Business Administration
 
 ### University Professor (undergraduate programs)
 
@@ -136,7 +136,7 @@ Universidad Nacional de Colombia (*part time*)
 
 Bogotá, Colombia
 
-Feb/2023 - Current
+Feb/2023 - Jun/2023
 
 -   Lecturer in the School of Economics
 -   Undergraduate class in Internationalization of Firms
